@@ -1,5 +1,5 @@
 """
-This script performs a replace over all markdown files in a directory nd its subdirectories.
+This script performs a replace over all markdown files in a directory and its subdirectories.
 It replaces *single words* with *single words* from a list provided in "name_changes.txt", in the form:
 
 word newword
